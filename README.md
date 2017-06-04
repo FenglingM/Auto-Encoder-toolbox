@@ -1,5 +1,5 @@
 # Auto-Encoder-toolbox
-This is the Auto-Encoder toolbox for the paper "Mao Fengling, Xiong Wei, Du Bo, et al. Stochastic Decorrelation Constraint Regularized Auto-Encoder for Visual Recognition. MultiMedia Modeling. Springer International Publishing, 2017" --Fengling Mao.
+This is the Auto-Encoder toolbox for the paper "Fengling Mao, Wei Xiong, Bo Du and Lefei Zhang. Stochastic Decorrelation Constraint Regularized Auto-Encoder for Visual Recognition. MultiMedia Modeling(MMM). Springer International Publishing, 2017" --Fengling Mao.
 
 
 --Introduction----------------------------
