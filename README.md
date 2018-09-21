@@ -11,7 +11,8 @@ This is the Auto-Encoder toolbox for the paper "Fengling Mao, Wei Xiong, Bo Du a
 }
 
 
---Introduction----------------------------
+
+<font size=4> Introduction </font>
 
 1. A matlab toolbox for Auto-Encoder with whitening, convolution, pooling, classification.
 
@@ -20,7 +21,7 @@ This is the Auto-Encoder toolbox for the paper "Fengling Mao, Wei Xiong, Bo Du a
 3. The simple example of using this toolbox is a small experiment of our paper-"Stochastic Decorrelation Constraint Regularized Auto-Encoder for Visual Recognition" on the MNIST dataset.
 
 
---How to use the example------------------
+<font size=4> Run Step </font>
 
 1. download the MNIST dataset (http://yann.lecun.com/exdb/mnist/), and put the 'mnist_uint8.mat' into the 'data' folder.  
 2. addpath the toolbox.
