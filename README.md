@@ -2,12 +2,12 @@
 This is the Auto-Encoder toolbox for the paper "Fengling Mao, Wei Xiong, Bo Du and Lefei Zhang. Stochastic Decorrelation Constraint Regularized Auto-Encoder for Visual Recognition. MultiMedia Modeling(MMM). Springer International Publishing, 2017" -- Fengling Mao.
 
 @inproceedings{mao2017stochastic, </br>
-   &emsp;&emsp; title={Stochastic decorrelation constraint regularized auto-encoder for visual recognition},</br>
-  &emsp;&emsp;  author={Mao, Fengling and Xiong, Wei and Du, Bo and Zhang, Lefei},</br>
-  &emsp;&emsp; booktitle={International Conference on Multimedia Modeling, </br>
-  &emsp;&emsp; pages={368--380, </br>
-  &emsp;&emsp; year={2017},</br>
-  &emsp;&emsp; organization={Springer}</br>
+title={Stochastic decorrelation constraint regularized auto-encoder for visual recognition},</br>
+author={Mao, Fengling and Xiong, Wei and Du, Bo and Zhang, Lefei},</br>
+booktitle={International Conference on Multimedia Modeling (MMM)}, </br>
+pages={368--380}, </br>
+year={2017},</br>
+organization={Springer}</br>
 }
 
 
